@@ -1,0 +1,12 @@
+{
+  "name": "weather_api",
+  "displayName": "weather_api",
+  "expo": {
+    "name": "weather_api",
+    "slug": "weather_api",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
